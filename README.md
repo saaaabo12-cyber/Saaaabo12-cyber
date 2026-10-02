@@ -2,24 +2,12 @@
 Hi there 👋
 I'm Sabrin Yousif!
 🌱 I'm currently a third-year Information Technology student, passionate about software engineering.
-💻 I specialize in backend development, building mobile apps using Flutter and Dart in Visual Studio Code. I also work with Java and C#.
-🛡️ I have a strong interest in cybersecurity, from encryption algorithms like DES and RSA to penetration testing and security analysis.
-💬 Ask me about: Java, C#, Flutter, and cybersecurity basics.
-Fun fact: I love solving logic puzzles with Prolog!
-🚀 Let's build something secure and amazing together!
-## Hi there 👋
-
-<!--
-**saaaabo12-cyber/Saaaabo12-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Languages & Tools
+ * Languages: Dart, Java, C#
+ * Frameworks & Tools: Flutter, Visual Studio Code
+🔒 Specializations & Interests
+ * Specialization: Backend Development & Mobile Apps
+ * Interests: Cybersecurity (Encryption algorithms like DES, RSA), Penetration Testing, and Security Analysis.
+🧩 Fun Fact
+I love solving logic puzzles with Prolog!
+🤝 Let's build something secure and amazing together!
